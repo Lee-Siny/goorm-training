@@ -1,2 +1,2 @@
-# Todo
-![Todo](/images/Netflix.png "Todo")
+# Netflix
+![Netflix](/images/Netflix.png "Netflix")
