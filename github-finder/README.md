@@ -1,2 +1,2 @@
-# Todo
-![Todo](/images/GithubFinder.png "Todo")  
+# Github Finder
+![Github Finder](/images/GithubFinder.png "Github Finder")  
